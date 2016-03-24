@@ -1,0 +1,22 @@
+{
+  "name": "drones",
+  "version": "1.0.0",
+  "description": "drones controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismatthieu/drones.git"
+  },
+  "keywords": [
+    "drones"
+  ],
+  "author": "chrismatthieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismatthieu/drones/issues"
+  },
+  "homepage": "https://github.com/chrismatthieu/drones#readme"
+}
